@@ -92,7 +92,7 @@ header {
 
 
 .logo {
-    background: url("../images/ali.jpg");
+    background: url("../images/harr.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -109,6 +109,7 @@ header {
     font-size: 46px;
     margin-top: 50px;
     color: #fff;
+    text-align: center;
 }
 
 .title {
@@ -118,6 +119,7 @@ header {
     margin-top: 20px;
     margin-bottom: 90px;
     color: #fff;
+    text-align: center;
 }
 
 
